@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE product SYSTEM "C:\\Users\\aditi\\OneDrive\\Documents\\xmlvalidation.dtd">
+<products>
+    <product>
+        <id>12</id>
+        <name> dress </name>
+        <price>500</price>
+        <quantity>89</quantity>
+        <category>Clothing</category>
+    </product>
+    <product> 
+        <id>13</id>
+        <name> T-shirt </name>
+        <price>200</price>
+        <quantity>60</quantity>
+        <category>Clothing</category>
+    </product>
+    <product>
+        <id>14</id>
+        <name> digital watch </name>
+        <price>400</price>
+        <quantity>40</quantity>
+        <category>Electronics</category>
+    </product>
+    <product>
+        <id>15</id>
+        <name> one Indian Girl </name>
+        <price>500</price>
+        <quantity>600</quantity>
+        <category>Books</category>
+    </product>
+</products>       
+
+        
